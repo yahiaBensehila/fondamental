@@ -10,6 +10,7 @@ int main()
     car.setmodel();
     car.setnumber();
     std::cout << "\n******************************** \n";
+    std:: cout << "\n just a test !";
     car.getall();
   
     return 0;
