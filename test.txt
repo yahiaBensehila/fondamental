@@ -1,0 +1,88 @@
+created by: yahia bensehila 
+date of creation is :1/1/2023
+
+hi there !!
+ write to a test file in time.
+
+hi there !!
+write to a test file in time.
+hello!Sat Jan 14 21:02:55 2023
+
+miga	40mergez	25viand	30champinion	35Sat Jan 14 21:04:10 2023
+
+miga	40
+mergez	25
+viand	30
+champinion	35
+
+Sat Jan 14 21:06:11 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sat Jan 14 21:06:54 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sat Jan 14 21:07:40 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sat Jan 14 21:44:32 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sat Jan 14 22:05:36 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sat Jan 14 22:07:11 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+
+
+Sat Jan 14 22:08:57 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sun Jan 15 21:30:56 2023
+
+miga      	40
+mergez    	25
+viand     	30
+champinion	35
+
+Sun Jan 15 22:08:40 2023
+
+miga      	 40
+mergez    	 25
+viand     	 30
+champinion	 35
+
+Sun Jan 15 22:10:00 2023
+
+miga      	 40
+mergez    	 25
+viand     	 30
+champinion	 35
